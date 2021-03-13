@@ -1,2 +1,2 @@
 # IDE-Shortcuts
-Different IDE shortcuts (mainly Gitpod and Visual Studio)
+*Different IDE shortcuts for mainly Gitpod and Visual Studio*
