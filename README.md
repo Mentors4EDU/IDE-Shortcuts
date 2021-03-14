@@ -6,3 +6,5 @@ For PC use ``CTRL``, for Mac use ``CMD`` or ``⌘``
 3. Open Workspace: ``Ctrl+O``
 4. Command Palette: ``F1``
 5. Format Document: ``Alt+Shift+F``
+
+Basic [Keyboard Shortcuts](https://www.w3schools.com/tags/ref_keyboardshortcuts.asp)\Other
